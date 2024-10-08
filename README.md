@@ -11,14 +11,19 @@
 
 
 - 👨‍💻 I am currently pursuing higher studies in web development.
-- 👌 I’m currently learning Java/Kotlin
-- 👯 open source contributor
+- 👌 I’m currently learning Java/Kotlin 
+- 👯 Love team coding
 - 💬 Ask me about **Python** **Ruby** 
 - 📫 How to reach me: jcperarnau06@proton.me
 
 
 
   
-<p align="left">  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<p align="center"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
+  
   
 </p>
