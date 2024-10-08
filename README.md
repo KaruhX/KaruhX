@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**K4ruhDev/K4ruhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://i.gifer.com/7IjS.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
-Here are some ideas to get you started:
+# Hello World! 👋  I'm Karuh (Jorge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- 👨‍💻 I am currently pursuing higher studies in web development.
+- 👌 I’m currently learning Java/Kotlin
+- 👯 open source contributor
+- 💬 Ask me about **Python** **Ruby** 
+- 📫 How to reach me: jcperarnau06@proton.me
+
+
+
+  
+<p align="left">  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
+</p>
