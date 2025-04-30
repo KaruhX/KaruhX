@@ -11,9 +11,9 @@
 
 
 - 👨‍💻 I am currently pursuing higher studies in web development.
-- 👌 I’m currently learning Java/Kotlin 
+- 👌 I’m currently learning Java/Kotlin & React 
 - 👯 Love team coding
-- 💬 Ask me about **Python** **Ruby** 
+- 💬 Ask me about **Python** **Linux Bash** 
 - 📫 How to reach me: jcperarnau06@proton.me
 
 
