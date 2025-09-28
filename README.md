@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karuh</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4ruhdev&label=Profile%20views&color=0e75b6&style=flat" alt="k4ruhdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karuhx&label=Profile%20views&color=0e75b6&style=flat" alt="karuhx" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Spring**
 
